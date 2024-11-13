@@ -1,2 +1,0 @@
-# pembayaran
-Aplikasi Pembayaran
